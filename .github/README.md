@@ -1,10 +1,10 @@
 <!-- TITLE -->
-![banner](https://user-images.githubusercontent.com/6818236/124364740-7dea6480-dc11-11eb-88e3-f75e21065dd7.png)
+![banner](.github/preview.png)
 <p align="center">
   <p align="center">
     A simplistic yet bold HUD for Team Fortress 2, made to cut out a lot of clutter included with the stock hud. Includes minimal mode for competitive play and a range of vivid colors associated with both low health, ammo and other useful values.
     <br />
-    <a href="https://github.com/raysfire/rayshud/archive/master.zip">Download</a>
+    <a href="https://github.com/KawaiiFiveO/rayshud/archive/master.zip">Download</a>
     ·
     <a href="https://github.com/raysfire/rayshud/issues">Issue Tracker</a>
     ·
@@ -51,7 +51,7 @@ Credits
 * clovervidia - For the updated closed captions. Check his Steam Guide [here][cc-link].
 
 <!-- LINKS -->
-[download-link]: https://github.com/raysfire/rayshud/archive/master.zip
+[download-link]: https://github.com/KawaiiFiveO/rayshud/archive/master.zip
 [issues-link]: https://github.com/raysfire/rayshud/issues/new
 [discord-link]: https://discord.gg/hTdtK9vBhE
 [cc-link]: https://steamcommunity.com/sharedfiles/filedetails/?id=167785751
