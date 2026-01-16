@@ -1,4 +1,4 @@
-"Resource/UI/HudObjectiveFlagPanel.res"
+"resource/ui/hudobjectiveflagpanel.res"
 {
 	"ObjectiveStatusFlagPanel"
 	{
@@ -397,7 +397,7 @@
 
 		"if_mvm"
 		{
-			"ypos"		"r65"
+			"ypos"		"r69"
 		}
 	}
 

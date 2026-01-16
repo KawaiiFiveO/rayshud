@@ -1,6 +1,6 @@
 #base "hudinspectpanel.res"
 
-"Resource/UI/FreezePanel_Basic.res"
+"resource/ui/freezepanel_basic.res"
 {
 	"itempanel"
 	{
@@ -125,7 +125,7 @@
 		{
 			"ControlName"		"CAvatarImagePanel"
 			"fieldName"			"AvatarImage"
-			"xpos"				"45"
+			"xpos"				"48"
 			"ypos"				"15"
 			"zpos"				"0"
 			"wide"				"20"

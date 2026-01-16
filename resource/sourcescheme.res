@@ -1,4 +1,4 @@
-#base "SourceSchemeBase.res"
+#base "sourceschemebase.res"
 
 Scheme
 {
@@ -17,6 +17,8 @@ Scheme
 		"Blank"						"0 0 0 0"
 		"HudBlack"					"0 0 0 200"
 		"Cyan"						"72 255 255 255"
+		"DarkCyan"					"53 152 169 255"
+		"DarkCyanDim"				"53 152 169 128"
 
 		// BASE COLORS
 		//---------------------------------------------
@@ -41,7 +43,7 @@ Scheme
 	    "TFMediumBrown"				"69 64 58 255"
 
 	    "QuickListBGDeselected"		"0 0 0 0"
-	    "QuickListBGSelected"		"169 123 53 255"
+	    "QuickListBGSelected"		"DarkCyanDim"
 
 	    "Blank"						"0 0 0 0"
 
@@ -64,15 +66,15 @@ Scheme
 		Button.TextColor				"White"
 		Button.BgColor					"Black"
 		Button.ArmedTextColor			"White"
-		Button.ArmedBgColor				"Yellow"
+		Button.ArmedBgColor				"DarkCyan"
 		Button.DepressedTextColor		"White"
-		Button.DepressedBgColor			"Yellow"
+		Button.DepressedBgColor			"DarkCyan"
 		Button.FocusBorderColor			"Blank"
 
 		CheckButton.TextColor			"DullWhite"
 		CheckButton.SelectedTextColor	"White"
 		CheckButton.BgColor				"Black"
-		CheckButton.HighlightFgColor	"Yellow"
+		CheckButton.HighlightFgColor	"DarkCyan"
 		CheckButton.ArmedBgColor		"Blank"
 		CheckButton.DepressedBgColor	"Blank"
 		CheckButton.Border1  			"Border.Dark"
@@ -110,6 +112,7 @@ Scheme
 
 		ListPanel.TextColor					"White"
 		ListPanel.BgColor					"HudBlack"
+		ListPanel.SelectedTextColor			"Black"
 		ListPanel.SelectedBgColor			"White"
 		ListPanel.SelectedOutOfFocusBgColor	"DullWhite"
 
@@ -142,7 +145,9 @@ Scheme
 
 		TextEntry.TextColor					"White"
 		TextEntry.DisabledTextColor	        "DullWhite"
+		TextEntry.SelectedTextColor			"Black"
 		TextEntry.SelectedBgColor			"White"
+		TextEntry.OutOfFocusSelectedBgColor	"DullWhite"
 	}
 
 	Borders
@@ -459,7 +464,7 @@ Scheme
 	{
 		"6"
 		{
-			"font" "resource/TF2Build.ttf"
+			"font" "resource/tf2build.ttf"
 			"name" "TF2 Build"
 			"turkish"
 			{
@@ -518,13 +523,13 @@ Scheme
 				"range" "0x0000 0x0451"
 			}
 		}
-		"10"		"resource/linux_fonts/DejaVuSans.ttf"
-		"11"		"resource/linux_fonts/DejaVuSans-Bold.ttf"
-		"12"		"resource/linux_fonts/DejaVuSans-BoldOblique.ttf"
-		"13"		"resource/linux_fonts/DejaVuSans-Oblique.ttf"
-		"14"		"resource/linux_fonts/LiberationSans-Regular.ttf"
-		"15"		"resource/linux_fonts/LiberationSans-Bold.ttf"
-		"16"		"resource/linux_fonts/LiberationMono-Regular.ttf"
-		"17"		"resource/linux_fonts/FiraSans-Regular.ttf"
+		"10"		"resource/linux_fonts/dejavusans.ttf"
+		"11"		"resource/linux_fonts/dejavusans-bold.ttf"
+		"12"		"resource/linux_fonts/dejavusans-boldoblique.ttf"
+		"13"		"resource/linux_fonts/dejavusans-oblique.ttf"
+		"14"		"resource/linux_fonts/liberationsans-regular.ttf"
+		"15"		"resource/linux_fonts/liberationsans-bold.ttf"
+		"16"		"resource/linux_fonts/liberationmono-regular.ttf"
+		"17"		"resource/linux_fonts/firasans-regular.ttf"
 	}
 }

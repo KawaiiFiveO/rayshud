@@ -1,4 +1,4 @@
-"Resource/UI/ConfirmDialogAbandonSafe.res"
+"resource/ui/confirmdialogabandonsafe.res"
 {
 	"ConfirmDialog"
 	{
@@ -14,7 +14,7 @@
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
-		"bgcolor_override"		"DarkerGrey"
+		"bgcolor_override"		"DarkGrey"
 		"paintbackground"		"1"
 		"border"				"CyanBorderThick"
 	}

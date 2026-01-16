@@ -1,4 +1,4 @@
-"Resource/UI/CraftingPanel.res"
+"resource/ui/craftingpanel.res"
 {
 	"crafting_panel"
 	{
@@ -76,7 +76,6 @@
 					"fieldName"		"namelabel"
 					"xpos"			"0"
 					"ypos"			"0"
-					"font"			"Cerbetica24"
 					"zpos"			"2"
 					"wide"			"50"
 					"tall"			"30"
@@ -85,7 +84,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"labelText"		"%itemname%"
-					"textAlignment"	"center"
+					"textAlignment"	"south"
 					"fgcolor"		"TanLight"
 					"wrap"			"1"
 					"centerwrap"	"1"

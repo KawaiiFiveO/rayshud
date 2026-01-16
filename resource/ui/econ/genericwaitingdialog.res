@@ -1,4 +1,4 @@
-"Resource/UI/GenericWaitingDialog.res"
+"resource/ui/genericwaitingdialog.res"
 {
 	"GenericWaitingDialog"
 	{
@@ -12,18 +12,18 @@
 		"bgcolor_override"		"DarkGrey"
 		"paintbackgroundtype"	"1"
 		"settitlebarvisible"	"0"
-		"border"				"CyanBorder"
+		"border"				"CyanBorderThick"
 	}
 
 	"TitleLabel"
 	{
 		"ControlName"			"Label"
 		"fieldName"				"TitleLabel"
-		"font"					"HudFontMedium"
-		"xpos"					"0"
+		"font"					"HudFontMediumSmall"
+		"xpos"					"5"
 		"ypos"					"8"
 		"zpos"					"0"
-		"wide"					"200"
+		"wide"					"195"
 		"tall"					"42"
 		"autoResize"			"0"
 		"pinCorner"				"0"

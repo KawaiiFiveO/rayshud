@@ -1,4 +1,4 @@
-"Resource/UI/VoteHud.res"
+"resource/ui/votehud.res"
 {
 	"VotePassed"
 	{
@@ -572,7 +572,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"TitleLabel"
-			"font"				"HudFontMediumSecondary"
+			"font"				"HudFontMedium"
 			"labelText"			"#TF_Vote_Title"
 			"textAlignment"		"north"
 			"xpos"				"0"
